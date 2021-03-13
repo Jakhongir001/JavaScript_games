@@ -1,5 +1,5 @@
 # JavaScript_games
 
-In his repo I will create Games using Javascript.
+In this repo I will create Games using Javascript.
 
   
